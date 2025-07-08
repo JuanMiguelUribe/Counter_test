@@ -1,5 +1,5 @@
 
-# Counter_Test-App
+# Counter_Test_App
 
 app for practicing methods, best practices, design, animations and actions
 

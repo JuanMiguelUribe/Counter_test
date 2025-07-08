@@ -88,6 +88,8 @@ class CustomButton extends StatelessWidget {
     return FloatingActionButton(
       // shape: Border.all(),
       onPressed: onPressed,
+      enableFeedback: true,
+      focusElevation: 300, //This is for the shadow of the button
       // Animación loca: botón que rota y cambia de tamaño al presionarse
       foregroundColor: Colors.black,
       splashColor: Colors.teal,
